@@ -4,7 +4,7 @@ Our paper “_**[Multimodal 3D Object Detection: A Review and Outlook]**_”
 
 <p align='center'>
     </br>
-    <img src='timeline.png' width='1000'>
+    <img src='TimeLine.png' width='1000'>
 </p>
 
 <p align='center'>
