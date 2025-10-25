@@ -44,20 +44,20 @@ Our paper “_**[Multimodal 3D Object Detection: A Review and Outlook]**_”
 * [Submitted on 3 Aug, 2025] Adaptive LiDAR Scanning: Harnessing Temporal Cues for Efficient 3D Object Detection via Multi-Modal Fusion [[paper](https://arxiv.org/pdf/2508.01562)]
 * [Submitted on 26 Jul, 2025] RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection [[paper](https://arxiv.org/pdf/2507.19856)]
 * [Submitted on 22 Jul, 2025] LDRFusion: A LiDAR-Dominant multimodal refinement framework for 3D object detection [[paper](https://arxiv.org/pdf/2507.16224)]
-* [Submitted on 17 Mar, 2025] Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation [[paper](https://arxiv.org/pdf/2503.12914)] [[code](https://github.com/nubot-nudt/ICD-Fusion)]
-* [Submitted on 12 Mar, 2025] Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection [[paper](https://arxiv.org/pdf/2503.08992)]
 * [Submitted on 12 May, 2025] DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection [[paper](https://arxiv.org/pdf/2505.07398)]
 * [Submitted on 11 May, 2025] SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection [[paper](https://arxiv.org/pdf/2503.08092)]
+* [Submitted on 17 Mar, 2025] Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation [[paper](https://arxiv.org/pdf/2503.12914)] [[code](https://github.com/nubot-nudt/ICD-Fusion)]
+* [Submitted on 12 Mar, 2025] Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection [[paper](https://arxiv.org/pdf/2503.08992)]
 
 ### 2024
 
 #### CVPR 2024 (Accepted Papers)
 
-* [Submitted on 1 Nov, 2024 ] GAFusion: Adaptive Fusing LiDAR and Camera with Multiple Guidance for 3D Object Detection [[paper](https://arxiv.org/pdf/2411.00340)]
+* [Submitted on 1 Nov, 2024] GAFusion: Adaptive Fusing LiDAR and Camera with Multiple Guidance for 3D Object Detection [[paper](https://arxiv.org/pdf/2411.00340)]
 * [Submitted on 25 Mar, 2024] RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection [[paper](https://arxiv.org/pdf/2403.16440)] [[code](https://github.com/VDIGPKU/RCBEVDet)]
 * [Submitted on 22 Mar, 2024] IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection [[paper](https://arxiv.org/pdf/2403.15241)] [[code](https://github.com/yinjunbo/IS-Fusion)]
 * [Submitted on 22 Dec, 2023] Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers [[paper](https://arxiv.org/pdf/2312.14919)]
-* [Submitted on 12 Oct, 2023 ] UniPAD: A Universal Pre-training Paradigm for Autonomous Driving [[paper](https://arxiv.org/abs/2310.08370)] [[code](https://github.com/Nightmare-n/UniPAD)]
+* [Submitted on 12 Oct, 2023] UniPAD: A Universal Pre-training Paradigm for Autonomous Driving [[paper](https://arxiv.org/abs/2310.08370)] [[code](https://github.com/Nightmare-n/UniPAD)]
 
 #### ECCV 2024 (Accepted Papers)
 
@@ -84,17 +84,17 @@ Our paper “_**[Multimodal 3D Object Detection: A Review and Outlook]**_”
 
 #### CVPR 2023 (Accepted Papers)
 
-* [Submitted on 7 Sep, 2022] MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection [[paper](https://arxiv.org/pdf/2209.03102)] [[code](https://github.com/SxJyJay/MSMDFusion)]
-* [Submitted on 20 Mar, 2022] FUTR3D: A Unified Sensor Fusion Framework for 3D Detection [[paper](https://arxiv.org/pdf/2203.10642)]
 * [Submitted on 7 Mar, 2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion [[paper](https://arxiv.org/pdf/2303.03595)] [[code](https://github.com/sankin97/LoGoNet)]
 * [Submitted on 4 Mar, 2023] Virtual Sparse Convolution for Multimodal 3D Object Detection [[paper](https://arxiv.org/pdf/2303.02314)] [[code](https://github.com/hailanyi/VirConv)]
+* [Submitted on 7 Sep, 2022] MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection [[paper](https://arxiv.org/pdf/2209.03102)] [[code](https://github.com/SxJyJay/MSMDFusion)]
+* [Submitted on 20 Mar, 2022] FUTR3D: A Unified Sensor Fusion Framework for 3D Detection [[paper](https://arxiv.org/pdf/2203.10642)]
 
 #### ICCV 2023 (Accepted Papers)
 
-* [Submitted on 15 Aug, 2023 ] UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation [[paper](https://arxiv.org/pdf/2308.07732)] [[code](https://github.com/Haiyang-W/UniTR)]
-* [Submitted on 8 Aug, 2023 ] FocalFormer3D : Focusing on Hard Instance for 3D Object Detection [[paper](https://arxiv.org/pdf/2308.04556)] [[code](https://github.com/NVlabs/FocalFormer3D)]
-* [Submitted on 27 Apr, 2023 ] SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection [[paper](https://arxiv.org/pdf/2304.14340)] [[code](https://github.com/yichen928/SparseFusion)]
-* [Submitted on 3 Jan, 2023 ] Cross Modal Transformer: Towards Fast and Robust 3D Object Detection [[paper](https://arxiv.org/pdf/2301.01283)] [[code](https://github.com/junjie18/CMT)]
+* [Submitted on 15 Aug, 2023] UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation [[paper](https://arxiv.org/pdf/2308.07732)] [[code](https://github.com/Haiyang-W/UniTR)]
+* [Submitted on 8 Aug, 2023] FocalFormer3D : Focusing on Hard Instance for 3D Object Detection [[paper](https://arxiv.org/pdf/2308.04556)] [[code](https://github.com/NVlabs/FocalFormer3D)]
+* [Submitted on 27 Apr, 2023] SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection [[paper](https://arxiv.org/pdf/2304.14340)] [[code](https://github.com/yichen928/SparseFusion)]
+* [Submitted on 3 Jan, 2023] Cross Modal Transformer: Towards Fast and Robust 3D Object Detection [[paper](https://arxiv.org/pdf/2301.01283)] [[code](https://github.com/junjie18/CMT)]
 * [Submitted on 24 Nov, 2022] 3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection [[paper](https://arxiv.org/pdf/2211.13529)]
 * ObjectFusion: Multi-modal 3D Object Detection with Object-Centric Fusion
 
@@ -127,9 +127,9 @@ Our paper “_**[Multimodal 3D Object Detection: A Review and Outlook]**_”
 
 #### ECCV 2022 (Accepted Papers)
 
-* [Submitted on 21 Jul, 2022] AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection [[paper](https://arxiv.org/pdf/2207.10316)] [[code](https://github.com/zehuichen123/AutoAlignV2)]
-* [Submitted on 7 Aug, 2022] Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph [[paper](https://arxiv.org/pdf/2208.03624)] [[code](https://github.com/Nightmare-n/GraphRCNN)]
 * [Submitted on 18 Oct, 2022] Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection [[paper](https://arxiv.org/pdf/2210.09615)]
+* [Submitted on 7 Aug, 2022] Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph [[paper](https://arxiv.org/pdf/2208.03624)] [[code](https://github.com/Nightmare-n/GraphRCNN)]
+* [Submitted on 21 Jul, 2022] AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection [[paper](https://arxiv.org/pdf/2207.10316)] [[code](https://github.com/zehuichen123/AutoAlignV2)]
 
 #### Arxiv
 
