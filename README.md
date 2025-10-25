@@ -74,7 +74,7 @@ Our paper “_**[Multimodal 3D Object Detection: A Review and Outlook]**_”
 
 #### TPAMI 2024 (Accepted Papers)
 
-* [Submitted on 24 Apr, 2023] Fully Sparse Fusion for 3D Object Detection [[paper]([https://arxiv.org/pdf/2403.07372](https://arxiv.org/pdf/2304.12310))] [[code](https://github.com/BraveGroup/FullySparseFusion)]
+* [Submitted on 24 Apr, 2023] Fully Sparse Fusion for 3D Object Detection [[paper](https://arxiv.org/pdf/2304.12310)] [[code](https://github.com/BraveGroup/FullySparseFusion)]
 
 #### Arxiv
 
