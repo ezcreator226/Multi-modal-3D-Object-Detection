@@ -105,7 +105,7 @@ Our paper “_**[Multimodal 3D Object Detection: A Review and Outlook]**_”
 
 #### Arxiv
 
-* [Submitted on 11 Sep, 2023] FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Object Detection [[paper]([https://arxiv.org/pdf/2303.17099](https://arxiv.org/pdf/2309.05257))]
+* [Submitted on 11 Sep, 2023] FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Object Detection [[paper](https://arxiv.org/pdf/2309.05257)]
 * [Submitted on 30 Mar, 2023] BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation [[paper](https://arxiv.org/pdf/2303.17099)]
 
 ### 2022
