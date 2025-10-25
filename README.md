@@ -1,6 +1,5 @@
 # Multi-modal-3D-Object-Detection
 
-# Multi-modal-3D-Object-Detection
 Our paper “_**[Multimodal 3D Object Detection: A Review and Outlook]**_”
 
 <p align='center'>
